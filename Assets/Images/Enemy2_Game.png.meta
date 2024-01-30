@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: ec8f35156b4f8c64987d9a95c92c5a73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7315968988550541791
+    second: Enemy2_Game_0
+  - first:
+      213: -7523906524231660398
+    second: Enemy2_Game_1
+  - first:
+      213: -4615677755652701609
+    second: Enemy2_Game_2
+  - first:
+      213: -4353045142325607887
+    second: Enemy2_Game_3
+  - first:
+      213: -5000642826084737681
+    second: Enemy2_Game_4
+  - first:
+      213: 5270735698704695645
+    second: Enemy2_Game_5
+  - first:
+      213: 8300290778597249377
+    second: Enemy2_Game_6
+  - first:
+      213: -8143878593317121647
+    second: Enemy2_Game_7
+  - first:
+      213: -4354154916458847469
+    second: Enemy2_Game_8
+  - first:
+      213: 972499497424487281
+    second: Enemy2_Game_9
+  - first:
+      213: 4311445505446416967
+    second: Enemy2_Game_10
+  - first:
+      213: -8645912236255173849
+    second: Enemy2_Game_11
+  - first:
+      213: 4653487739842848853
+    second: Enemy2_Game_12
+  - first:
+      213: -4896643187495897172
+    second: Enemy2_Game_13
+  - first:
+      213: -3175388696075859835
+    second: Enemy2_Game_14
+  - first:
+      213: 9141567033683932165
+    second: Enemy2_Game_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy2_Game_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1345e880b878560800000000000000
+      internalID: 7315968988550541791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 725.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8deb21e6b59790800000000000000
+      internalID: -7523906524231660398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 725.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75206a04981d1ffb0800000000000000
+      internalID: -4615677755652701609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 725.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1324178a180e693c0800000000000000
+      internalID: -4353045142325607887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d1d9e18d52a9ab0800000000000000
+      internalID: -5000642826084737681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 484.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d518342413a652940800000000000000
+      internalID: 5270735698704695645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_6
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 484.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1615dbe7c7e803370800000000000000
+      internalID: 8300290778597249377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 484.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191dc6741912bfe80800000000000000
+      internalID: -8143878593317121647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313237b3c2fe293c0800000000000000
+      internalID: -4354154916458847469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 243.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1738b30f3230f7d00800000000000000
+      internalID: 972499497424487281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 243.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742969c18d455db30800000000000000
+      internalID: 4311445505446416967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 243.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723aece01ac830880800000000000000
+      internalID: -8645912236255173849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e7f3b172849040800000000000000
+      internalID: 4653487739842848853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca77879e6f0ab0cb0800000000000000
+      internalID: -4896643187495897172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5888b9a0ec0cee3d0800000000000000
+      internalID: -3175388696075859835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2_Game_15
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2.25
+        width: 238.5
+        height: 241.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504f62578ce5dde70800000000000000
+      internalID: 9141567033683932165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
